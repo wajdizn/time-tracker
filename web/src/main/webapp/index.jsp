@@ -11,9 +11,9 @@
     <title>Super Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>very Simple Example Web Page</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    This is a very simple example web page on a JSP. For test tomcat deployment
   </p>
 </body>
 </html>
